@@ -15,7 +15,7 @@ const RecordProgressBar = (props) => {
                 renderTrack={() => {
                     return (<View flex row  style={{ backgroundColor: "aquablue" }}>
                         <View style={{ width: "30%", backgroundColor: "rgba(192,192,192,0.5)" }}></View>
-                        <View style={{ width: "15%", backgroundColor: "rgba(192,192,192,0.5)", marginLeft: 3 }}></View>
+                        <View style={{ width: "15%", backgroundColor: "rgba(193,192,192,0.5)", marginLeft: 3 }}></View>
                         <View style={{ width: "15%", backgroundColor: "rgba(192,192,192,0.5)", marginLeft: 3 }}></View>
                         <View style={{ width: "20%", backgroundColor: "rgba(192,192,192,0.5)", marginLeft: 3 }}></View>
                         <View style={{ width: "20%", backgroundColor: "rgba(192,192,192,0.5)", marginLeft: 3 }}></View>
